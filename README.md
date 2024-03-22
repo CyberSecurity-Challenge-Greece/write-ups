@@ -1,2 +1,3 @@
-# write-ups
-Write-Ups for CSCGR Challenges
+# Cyber Security Challenge 2024
+
+Scoreboard:
