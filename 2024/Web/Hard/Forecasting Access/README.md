@@ -1,5 +1,4 @@
-# [CHALLENGE_TITLE]
-Forecasting Access
+# Forecasting Access
 
 ## Category
 Web
@@ -37,4 +36,4 @@ csc{c0ngr4t5_y0u_kn0ck3d_m3_ou7}
 Konstantinos Papanagnou
 
 ## Creator bio
-
+Konstantinos Papanagnou is a Senior Penetration Tester at NVISO Security. He is also the Lead Technical Director of Cyber Security Challenge Greece.
